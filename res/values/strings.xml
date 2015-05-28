@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unit Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+ <string name="title">Select Conversion Type</string>
+    
+    <string-array name="ConvertItem">
+        <item>Angle</item>
+        <item>Area</item>
+        <item>Digital Storage</item>
+        <item>Energy</item>
+        <item>Length</item>
+        <item>Tempature</item>
+        <item>Time</item>
+    </string-array>
+
+    <!-- Add Angle item -->
+
+    <string-array name="AngleItem">
+        <item>degree</item>
+        <item>radian</item>
+        <item>grad</item>
+        <item>minute</item>
+        <item>second</item>
+        <item>sign</item>
+        <item>mil</item>
+        <item>revolution</item>
+        <item>quadrant</item>
+    </string-array>
+
+    <!-- ........ Add Area item ........ -->
+
+    <string-array name="AreaItem">
+        <item>square km</item>
+        <item>Hectare</item>
+        <item>square meter</item>
+        <item>square mile</item>
+        <item>acre</item>
+        <item>square yard</item>
+    </string-array>
+
+    <!-- ........ Add Digital item ........ -->
+
+    <string-array name="DigitalItem">
+        <item>bit</item>
+        <item>byte</item>
+        <item>kilobit</item>
+        <item>kilobyte</item>
+        <item>megabit</item>
+        <item>megabyte</item>
+        <item>gigabit</item>
+        <item>gigabyte</item>
+        <item>terabit</item>
+        <item>terabyte</item>
+    </string-array>
+
+    <!-- ........ Add Temparature item ........ -->
+
+    <string-array name="TempatureItem">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <!-- ........ Add Energy item ........ -->
+    <string-array name="EnergyItem">
+        <item>calorie(cal)</item>
+        <item>electronvolt(eV)</item>
+        <item>foot-pound</item>
+        <item>gigajoule</item>
+         <item>joule(J)</item>
+        <item>kilocalorie</item>
+        <item>kilowatt hou(kWh)</item>
+        <item>megajoule(mj)</item>
+        <item>watt hour (Wh)</item>
+    </string-array>
+
+    <!-- ........ Add Length item ........ -->
+
+    <string-array name="LengthItem">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+    </string-array>
+
+    <!-- ........ Add Time item ........ -->
+
+    <string-array name="TimeItem">
+        <item>Nanosecond</item>
+        <item>Microsecond</item>
+        <item>Millisecond</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+
+</resources>
